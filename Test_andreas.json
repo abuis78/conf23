@@ -1,7 +1,7 @@
 {
 "sop_json":
 {
-  "name": "Das ist ein weitedddre Test",
+  "name": "001",
   "description": "This is an example SOP dfor a test correladdtion search",
   "phases": [
     {
@@ -67,6 +67,6 @@
   "is_default": false,
   "is_note_required": true
 },
-"version": 3,
+"version": 1,
 "creator": "Andreas"
 }
