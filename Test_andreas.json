@@ -5,7 +5,7 @@
   "description": "This is an example SOP dfor a test correladdtion search",
   "phases": [
     {
-      "id": "Generated SOP Tasks",
+      "id": "Generated SOP dTasks",
       "name": "Generated SOP Tasks",
       "tasks": [
 {
