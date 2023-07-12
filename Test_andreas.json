@@ -2,7 +2,7 @@
 "sop_json":
 {
   "name": "001",
-  "description": "This is an example SOP dfor a test correladdtion search",
+  "description": "This is an examdple SOP dfor a test correladdtion search",
   "phases": [
     {
       "id": "Generated SOP dTasks",
