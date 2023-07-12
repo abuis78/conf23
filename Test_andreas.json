@@ -2,7 +2,7 @@
 "sop_json":
 {
   "name": "Das ist ein weitedddre Test",
-  "description": "This is an example SOP for a test correlation search",
+  "description": "This is an example SOP for a test correladdtion search",
   "phases": [
     {
       "id": "Generated SOP Tasks",
