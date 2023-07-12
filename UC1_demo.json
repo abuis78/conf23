@@ -9,7 +9,7 @@
       "name": "Generated SOP Tasks",
       "tasks": [
 {
-                        "name": "F01-Check filed hash"
+                        "name": "F01-Checkf filed hash"
                 },
                 {
                         "name": "F02-Check file name/path"
