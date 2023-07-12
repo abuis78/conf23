@@ -21,7 +21,7 @@
                         "name": "N16-Check for internal traffic"
                 },
                 {
-                        "name": "U01-Get username"
+                        "name": "U01-Get usedrname"
                 },
                 {
                         "name": "U02-Check if the user is local admin"
