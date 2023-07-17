@@ -1,4 +1,4 @@
-{
+{"sop_json": {
   "name": "9000 Las Vegas",
   "description": "This is an example SOP for a test correlation search",
   "phases": [
@@ -64,4 +64,4 @@
   ],
   "is_default": false,
   "is_note_required": true
-}, "version": 1, "creator": "Manuel","automation_phase": "9001_test_uc","alert": "9006"}
+}, "version": 19, "creator": "Manuel","automation_phase": "9001_test_uc","alert": "9001"}
