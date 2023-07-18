@@ -64,8 +64,8 @@
         ]
       }
     ],
-    "is_default": "false",
-    "is_note_required": "true"
+    "is_default": false,
+    "is_note_required": true
   },
   "version": 72,
   "creator": "Manuel",
