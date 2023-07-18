@@ -9,31 +9,37 @@
         "name": "9001_test_uc",
         "tasks": [
           {
-            "name": "U17-Check group membership"
+            "name": "F01-Check file hash"
           },
           {
-            "name": "U17-Check group membership"
+            "name": "F02-Check file name/path"
           },
           {
-            "name": "U17-Check group membership"
+            "name": "P01-Check InitiatingProcessParentFileName of the InitiatingProcessFileName"
           },
           {
-            "name": "U17-Check group membership"
+            "name": "N16-Check for internal traffic"
           },
           {
-            "name": "U17-Check group membership"
+            "name": "U01-Get username"
           },
           {
-            "name": "U17-Check group membership"
+            "name": "U02-Check if the user is local admin"
           },
           {
-            "name": "U17-Check group membership"
+            "name": "U04-Check for login activities on other hosts"
           },
           {
-            "name": "U17-Check group membership"
+            "name": "U05-Check login types"
           },
           {
-            "name": "U17-Check group membership"
+            "name": "H01-How many users are logging in on the host"
+          },
+          {
+            "name": "H02-Host IP"
+          },
+          {
+            "name": "H04-Check for added autorun entries"
           }
         ]
       }
