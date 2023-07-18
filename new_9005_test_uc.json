@@ -8,85 +8,34 @@
         "name": "9005_test_uc",
         "tasks": [
           {
-            "name": "H04-Check for added autorun entries"
+            "name": "F01-Check file hash"
           },
           {
-            "name": "H04-Check for added autorun entries"
+            "name": "F02-Check file name/path"
           },
           {
-            "name": "H04-Check for added autorun entries"
+            "name": "P01-Check InitiatingProcessParentFileName of the InitiatingProcessFileName"
           },
           {
-            "name": "H04-Check for added autorun entries"
+            "name": "N16-Check for internal traffic"
           },
           {
-            "name": "H04-Check for added autorun entries"
+            "name": "U01-Get username"
           },
           {
-            "name": "H04-Check for added autorun entries"
+            "name": "U02-Check if the user is local admin"
           },
           {
-            "name": "H04-Check for added autorun entries"
+            "name": "U04-Check for login activities on other hosts"
           },
           {
-            "name": "H04-Check for added autorun entries"
+            "name": "U05-Check login types"
           },
           {
-            "name": "H04-Check for added autorun entries"
+            "name": "H01-How many users are logging in on the host"
           },
           {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
+            "name": "H02-Host IP"
           },
           {
             "name": "H04-Check for added autorun entries"
