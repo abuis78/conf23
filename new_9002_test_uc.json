@@ -23,7 +23,7 @@
     "is_default": false,
     "is_not_required": true
   },
-  "version": 33,
+  "version": 34,
   "creator": "Manuel",
   "automation_phase": "9002_test_uc",
   "alert": "9002"
