@@ -22,24 +22,6 @@
           },
           {
             "name": "U01-Get username"
-          },
-          {
-            "name": "U02-Check if the user is local admin"
-          },
-          {
-            "name": "U04-Check for login activities on other hosts"
-          },
-          {
-            "name": "U05-Check login types"
-          },
-          {
-            "name": "H01-How many users are logging in on the host"
-          },
-          {
-            "name": "H02-Host IP"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
           }
         ]
       },
