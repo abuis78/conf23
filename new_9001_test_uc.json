@@ -38,7 +38,7 @@
     "is_default": false,
     "is_not_required": true
   },
-  "version": 20,
+  "version": 21,
   "creator": "Manuel",
   "automation_phase": "9001_test_uc",
   "alert": "9001"
