@@ -6,66 +6,39 @@
       {
         "id": "9003",
         "name": "9003_test_uc",
-        "tasks": [
+"tasks": [
           {
-            "name": "F11-List accessed files"
+            "name": "F01-Check file hash"
           },
           {
-            "name": "F11-List accessed files"
+            "name": "F02-Check file name/path"
           },
           {
-            "name": "F11-List accessed files"
+            "name": "P01-Check InitiatingProcessParentFileName of the InitiatingProcessFileName"
           },
           {
-            "name": "F11-List accessed files"
+            "name": "N16-Check for internal traffic"
           },
           {
-            "name": "F11-List accessed files"
+            "name": "U01-Get username"
           },
           {
-            "name": "F11-List accessed files"
+            "name": "U02-Check if the user is local admin"
           },
           {
-            "name": "F11-List accessed files"
+            "name": "U04-Check for login activities on other hosts"
           },
           {
-            "name": "F11-List accessed files"
+            "name": "U05-Check login types"
           },
           {
-            "name": "F11-List accessed files"
+            "name": "H01-How many users are logging in on the host"
           },
           {
-            "name": "F11-List accessed files"
+            "name": "H02-Host IP"
           },
           {
-            "name": "F11-List accessed files"
-          },
-          {
-            "name": "F11-List accessed files"
-          },
-          {
-            "name": "F11-List accessed files"
-          },
-          {
-            "name": "F11-List accessed files"
-          },
-          {
-            "name": "F11-List accessed files"
-          },
-          {
-            "name": "F11-List accessed files"
-          },
-          {
-            "name": "F11-List accessed files"
-          },
-          {
-            "name": "F11-List accessed files"
-          },
-          {
-            "name": "F11-List accessed files"
-          },
-          {
-            "name": "F11-List accessed files"
+            "name": "H04-Check for added autorun entries"
           }
         ]
       }
