@@ -67,7 +67,7 @@
     "is_default": "false",
     "is_note_required": "true"
   },
-  "version": 65,
+  "version": 66,
   "creator": "Manuel",
   "automation_phase": "Generated SOP Tasks",
   "alert": "9006"
