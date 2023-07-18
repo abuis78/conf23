@@ -4,9 +4,9 @@
     "description": "9003_test_uc",
     "phases": [
       {
-        "id": "9003",
-        "name": "9003_test_uc",
-"tasks": [
+        "id": "Generated SOP Tasks",
+        "name": "Generated SOP Tasks",
+        "tasks": [
           {
             "name": "F01-Check file hash"
           },
@@ -36,6 +36,29 @@
           },
           {
             "name": "H02-Host IP"
+          },
+          {
+            "name": "H04-Check for added autorun entries"
+          }
+        ]
+      },
+      {
+        "id": "Additional_Info",
+        "name": "Additional Info",
+        "tasks": [
+          {
+            "name": "Notes / Remarks",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "id": "Recommendations",
+        "name": "Recommendations",
+        "tasks": [
+          {
+            "name": "Notes / Remarks",
+            "description": ""
           }
         ]
       }
