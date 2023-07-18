@@ -5,8 +5,8 @@
     "description": "9001_test_uc",
     "phases": [
       {
-        "id": "9001",
-        "name": "9001_test_uc",
+        "id": "Generated SOP Tasks",
+        "name": "Generated SOP Tasks",
         "tasks": [
           {
             "name": "F01-Check file hash"
