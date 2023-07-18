@@ -36,9 +36,6 @@
           },
           {
             "name": "H02-Host IP"
-          },
-          {
-            "name": "H04-Check for added autorun entries"
           }
         ]
       }
