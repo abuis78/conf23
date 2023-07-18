@@ -4,8 +4,8 @@
     "description": "9004_test_uc",
     "phases": [
       {
-        "id": "9004",
-        "name": "9004_test_uc",
+        "id": "Generated SOP Tasks",
+        "name": "Generated SOP Tasks",
         "tasks": [
           {
             "name": "F01-Check file hash"
@@ -24,6 +24,41 @@
           },
           {
             "name": "U02-Check if the user is local admin"
+          },
+          {
+            "name": "U04-Check for login activities on other hosts"
+          },
+          {
+            "name": "U05-Check login types"
+          },
+          {
+            "name": "H01-How many users are logging in on the host"
+          },
+          {
+            "name": "H02-Host IP"
+          },
+          {
+            "name": "H04-Check for added autorun entries"
+          }
+        ]
+      },
+      {
+        "id": "Additional_Info",
+        "name": "Additional Info",
+        "tasks": [
+          {
+            "name": "Notes / Remarks",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "id": "Recommendations",
+        "name": "Recommendations",
+        "tasks": [
+          {
+            "name": "Notes / Remarks",
+            "description": ""
           }
         ]
       }
