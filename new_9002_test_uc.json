@@ -12,21 +12,6 @@
             "name": "F01-Check file hash"
           },
           {
-            "name": "F02-Check file name/path"
-          },
-          {
-            "name": "P01-Check InitiatingProcessParentFileName of the InitiatingProcessFileName"
-          },
-          {
-            "name": "N16-Check for internal traffic"
-          },
-          {
-            "name": "U01-Get username"
-          },
-          {
-            "name": "U02-Check if the user is local admin"
-          },
-          {
             "name": "U04-Check for login activities on other hosts"
           },
           {
